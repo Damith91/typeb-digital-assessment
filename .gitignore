@@ -271,5 +271,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-mobix-logs/
-Jenkinsfile
